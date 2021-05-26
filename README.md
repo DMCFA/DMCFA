@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything - I'll always help if I can  👍**
 
-- 📫 How to reach me **duartemalmeida@gmail.com** || https://www.linkedin.com/in/duarte-almeida-dmcfa/
+- 📫 How to reach me: <a href="mailto:duartemalmeida@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="email" width="20" height="20"> </a> || <a href="https://www.linkedin.com/in/duarte-almeida-dmcfa/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="20" height="20">
 
 
 <h3 align="left">Languages and Tools:</h3>
