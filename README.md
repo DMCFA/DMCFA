@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duarte Almeida 👨‍💻</h1>
 <h3 align="center">A passionate full-stack developer coding from London</h3>
 
-- 🔭 I’m currently working on **building an address book web app**
+- 🔭 I’m currently working on **building an ecommerce web app and a memory game**
 
-- 🌱 I’m currently learning **React**, I'll jump into **Typescript and Svelte** next
+- 🌱 I’m currently learning **Typescript**, I'll jump into **Svelte** next
 
 - 👯 I’m looking to collaborate on **React projects**
 
