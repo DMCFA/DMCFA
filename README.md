@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duarte Almeida 👨‍💻</h1>
-<h3 align="center">A passionate full-stack developer coding from London</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **building a tv shows web app** and collaborating on building a **a music web player app**
+- 🔭 I’m currently working on **building a task management app** and collaborating on a **price tracking app**
 
-- 🌱 I’m currently learning **Typescript**, I'll jump into **Svelte** next
+- 🌱 I’m always learning **something**, let me know what you think I should jump into **next**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **any fun projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DMCFA](https://github.com/DMCFA)
 
